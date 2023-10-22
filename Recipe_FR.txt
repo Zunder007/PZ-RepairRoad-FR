@@ -1,0 +1,3 @@
+Recipe_FR = {
+	Recipe_Make_Bucket_of_Concrete = "Faire un seau de béton",
+}
